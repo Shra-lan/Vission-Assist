@@ -1,2 +1,1 @@
-# Vission-Assist
-a blind-friendly AI chatbot application called "VisionAssist" that uses the phone camera to detect objects and describe surroundings through voice. The app uses computer vision and voice interaction so users can ask the assistant to identify items, read currency, or explain what is around them. 
+https://ai.studio/apps/f4eb2ec3-5852-4313-b572-e74cd3637fb3?fullscreenApplet=true
